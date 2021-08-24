@@ -17,8 +17,11 @@ property - ACID
 data sets - master_table, payment table
 
 table name - student_detail (master table )
+              
               demo_table
+              
               enrolled 
+              
               payment 
  
  
