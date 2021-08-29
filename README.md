@@ -1,4 +1,4 @@
-# Student-Project
+# Associates Management System
 
 framework - Hive
 
