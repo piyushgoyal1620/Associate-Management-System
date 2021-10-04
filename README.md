@@ -5,6 +5,38 @@
 This is Our Project Which is created in hive (Data Warehouse software, built in top of Hadoop). Which create and maintain the database of all associates trainings of various courses. In this Project we performed many different – different operations like table join, updating, creating etc, these operations are done on tables, we have 4 tables in this project.
 Also we perform many various queries on these tables, we have 2 CSV data-sets, which are very useful for data loading, using queries we extract the data.
 
+## Tools and Technologies
+Hive
+
+HDFS
+
+SQL
+
+Sqoop
+
+MySQL
+
+
+## Features
+
+
+Effective Discount on every course.
+
+Installment payment for Economically Weaker Section people.
+
+Reschedule facility for Demo Missed and Demo Not Done Associates.
+
+There are many courses.
+
+Joining and Demo available Weekdays as well as WEEKENDS.
+
+Fees Due data facility available if student forgot the data.
+
+Update all records from Master Table using ORC.
+
+Create another Data Set for Payment table because it has more features …
+
+
 framework - Hive
 
 Env - GCP
