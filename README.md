@@ -62,20 +62,26 @@ table name - student_detail (master table )
               payment 
  
  
- # All Steps - 
+ # Getting Started 
  
 
-1 - load the data from local machine to GCP.
+1 - create, use and show a database
 
-2 - go to inside hive using command ( HIVE )
+              create database projectdb;
+              
+              show databases;
+              
+              use projectdb;
+              
 
-3 - create a database
 
-4 - use this database
+5 - create a table temp table in textfile format ( master_table ) and load the data.
 
-5 - create a table temp table in textfile format ( master_table ) 
+              create table temp(id int, name string, mail string, mobile string, course string, age int, gender string, fee int, discount string, status1 string, status2 string)row format delimited fields terminated by ',' stored as textfile;
 
-6 - load the data inside this temp table
+              laod data local inpath '/home/piyushji2000/Main_table1.csv/' into table temp;
+
+
 
 7 - create a master table in ORC format
 
