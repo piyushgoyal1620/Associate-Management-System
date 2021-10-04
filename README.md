@@ -108,6 +108,23 @@ Create another Data Set for Payment table because it has more features …
                 delete from demo_table where id=101;
 
                 
+## Keynotes
+
+Make this more flexible.
+
+Will Integrate with UI.
+
+Grab the data in real time scenario.
+
+Secure all DB at Admin Panel
+
+Try to make a  web app and integrate with this DB.
+
+Deploy this project on AWS( For Faster Response ).
+
+Provide some referral cash back for each & every Associates.
+
+
 ## Contributors
 
 Piyush Goyal
