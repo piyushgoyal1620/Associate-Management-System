@@ -1,5 +1,10 @@
 # Associates Management System
 
+## Description
+
+This is Our Project Which is created in hive (Data Warehouse software, built in top of Hadoop). Which create and maintain the database of all associates trainings of various courses. In this Project we performed many different – different operations like table join, updating, creating etc, these operations are done on tables, we have 4 tables in this project.
+Also we perform many various queries on these tables, we have 2 CSV data-sets, which are very useful for data loading, using queries we extract the data.
+
 framework - Hive
 
 Env - GCP
