@@ -16,6 +16,16 @@ Sqoop
 
 MySQL
 
+## Content
+
+table name - student_detail (master table )
+              
+              demo_table
+              
+              enrolled 
+              
+              payment 
+
 
 ## Features
 
@@ -35,31 +45,6 @@ Fees Due data facility available if student forgot the data.
 Update all records from Master Table using ORC.
 
 Create another Data Set for Payment table because it has more features …
-
-
-framework - Hive
-
-Env - GCP
-
-Files - .CSV, Docs, pptx
-
-mode - lfs and cluster
-
-data set - 2
-
-file types - textfile, ORC file
-
-property - ACID
-
-data sets - master_table, payment table
-
-table name - student_detail (master table )
-              
-              demo_table
-              
-              enrolled 
-              
-              payment 
  
  
  # Getting Started 
@@ -123,3 +108,12 @@ table name - student_detail (master table )
                 delete from demo_table where id=101;
 
                 
+## Contributors
+
+Piyush Goyal
+
+Aysha Muktesar
+
+Surya Dev Gedela
+
+Bhawana Priya
