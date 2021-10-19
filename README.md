@@ -132,5 +132,3 @@ Piyush Goyal
 Aysha Muktesar
 
 Surya Dev Gedela
-
-Bhawana Priya
